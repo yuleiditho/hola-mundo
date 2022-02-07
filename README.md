@@ -1,2 +1,2 @@
 # hola-mundo
-Repositorio de prieba
+Repositorio de prueba
